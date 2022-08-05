@@ -56,7 +56,7 @@ main {
 /* General Classes Start */
 
 .bg-patron-brown {
-  background-image: url(img/background_patron_4k.jpg);
+  background-image: url(/img/background_patron_4k.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
