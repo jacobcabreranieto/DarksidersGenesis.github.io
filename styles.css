@@ -56,7 +56,7 @@ main {
 /* General Classes Start */
 
 .bg-patron-brown {
-  background-image: url(/img/background_patron_4k.jpg);
+  background-image: url(img/background_patron_4k.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -397,19 +397,19 @@ main {
 }
 
 .war-image {
-  background-image: url(/img/War.jpg);
+  background-image: url(img/War.jpg);
 }
 
 .strife-image {
-  background-image: url(/img/Strife.jpg);
+  background-image: url(img/Strife.jpg);
 }
 
 .twitch-image {
-  background-image: url(/img/Sin\ 11.jpg);
+  background-image: url(img/Sin\ 11.jpg);
 }
 
 .vulgrim-image {
-  background-image: url(/img/vulgrim.jpg);
+  background-image: url(img/vulgrim.jpg);
 }
 
 .story-section {
@@ -445,22 +445,22 @@ main {
 }
 
 .carouselphoto {
-  background-image: url(/img/Gam-1.jpg);
+  background-image: url(img/Gam-1.jpg);
 }
 .carouselphoto1 {
-  background-image: url(/img/Gam-2.jpg);
+  background-image: url(img/Gam-2.jpg);
 }
 .carouselphoto2 {
-  background-image: url(/img/Gam-3.jpg);
+  background-image: url(img/Gam-3.jpg);
 }
 .carouselphoto3 {
-  background-image: url(/img/Gam-4.jpg);
+  background-image: url(img/Gam-4.jpg);
 }
 .carouselphoto4 {
-  background-image: url(/img/Gam-5.jpg);
+  background-image: url(img/Gam-5.jpg);
 }
 .carouselphoto5 {
-  background-image: url(/img/Gam-6.jpg);
+  background-image: url(img/Gam-6.jpg);
 }
 
 @media (max-width: 890px) {
