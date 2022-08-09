@@ -56,7 +56,7 @@ main {
 /* General Classes Start */
 
 .bg-patron-brown {
-  background-image: url("img/background_patron_4k.jpg");
+  background-image: url(img/background_patron_4k.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -220,7 +220,6 @@ main {
 .nav-logo {
   width: 13%;
   height: 100%;
-  max-width: 13%;
 }
 
 .img-logo {
@@ -297,6 +296,10 @@ main {
 
   .nav-container{
     background-color: var(--color-primary);
+  }
+
+  .nav-logo{
+    width: 30%;
   }
 
   .nav-link{
