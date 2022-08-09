@@ -298,10 +298,6 @@ main {
     background-color: var(--color-primary);
   }
 
-  .nav-logo{
-    width: 30%;
-  }
-
   .nav-link{
     margin: 1rem 0rem;
   }
